@@ -8,6 +8,10 @@
 	<title></title>
 </head>
 <body>
+	<form>
+		<p><input type="text" name=""></p>
+		<p><input type="text" name=""></p>
+	</form>
 
 </body>
 </html>
